@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 <p align = center>
 <a href="https://www.hackerrank.com/moinuddin010203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moinuddin010203" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moin2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moin2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/moinuddin010203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/moinuddin010203" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/moinuddin010203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/moinuddin010203" height="30" width="40" /></a>
 </p>
 
 ## ❤ Followers:
 <div align= "center">
-<a href="https://github.com/moinuddin2003?tab=followers"><img src="https://img.shields.io/github/followers/MahamTahir31?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/moinuddin2003?tab=followers"><img src="https://img.shields.io/github/followers/moinuddin2003?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
 
